@@ -1,2 +1,4 @@
 numpy
 streamlit
+pickle5
+sklearn
